@@ -1,0 +1,14 @@
+C:\Users\Attila\source\repos\rectangle\rectangle\bin\Debug\net6.0\rectangle.exe
+C:\Users\Attila\source\repos\rectangle\rectangle\bin\Debug\net6.0\rectangle.deps.json
+C:\Users\Attila\source\repos\rectangle\rectangle\bin\Debug\net6.0\rectangle.runtimeconfig.json
+C:\Users\Attila\source\repos\rectangle\rectangle\bin\Debug\net6.0\rectangle.dll
+C:\Users\Attila\source\repos\rectangle\rectangle\bin\Debug\net6.0\rectangle.pdb
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\rectangle.AssemblyInfoInputs.cache
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\rectangle.AssemblyInfo.cs
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\rectangle.dll
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\refint\rectangle.dll
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\rectangle.pdb
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\rectangle.genruntimeconfig.cache
+C:\Users\Attila\source\repos\rectangle\rectangle\obj\Debug\net6.0\ref\rectangle.dll
