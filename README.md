@@ -1,12 +1,7 @@
-# Rectangle In Csharp
+# 🟦 Rectangle In Csharp
 This program can create a rectangle in CMD with the given informations by the user.
 
-## Installation:
-
-First run the setup.exe <br>
-That's all. Enjoy! :)
-
-## How to use
+## 💻 How to use
 
 When you first run the program it will greet you and ask for a symbol.
 
